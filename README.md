@@ -1,7 +1,6 @@
-<h1>   Proyecto Vuelo Estratosférico <h1 style="color: blue;">Este es un texto azul</h1>
+<h1>Proyecto: Vuelo Estratosférico <span style="color: red;">2.0</span></h1>
 
-</h1>
-</h1>
+
 
   
 
