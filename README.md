@@ -1,4 +1,5 @@
-<h1 style="text-aling: center;"> ProyectoEstratosferico PICIT
+<h1 style="text-align: center;">Proyecto: Lanzar un Hámster a la Estratosfera</h1>
+
   
 
 <!---
