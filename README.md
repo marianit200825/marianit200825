@@ -1,4 +1,4 @@
-<h1 stile=text-aling:center past> ProyectoEstratosferico PICIT
+<h1 stile=text-aling:center> ProyectoEstratosferico PICIT
   
 
 <!---
