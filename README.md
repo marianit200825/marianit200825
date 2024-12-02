@@ -1,4 +1,5 @@
-<h1 style="text-align: center;">Proyecto: Lanzar un Hámster a la Estratosfera</h1>
+<h1>   Proyecto Vuelo Estratosférico
+</h1>
 
   
 
