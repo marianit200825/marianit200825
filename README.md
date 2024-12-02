@@ -1,4 +1,5 @@
-<h1>   Proyecto Vuelo Estratosférico
+<h1>   Proyecto Vuelo Estratosférico <h1>style="color: red;" 2.0
+</h1>
 </h1>
 
   
