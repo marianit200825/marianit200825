@@ -1,6 +1,5 @@
-<h1>Proyecto Del Huevo 
-PICIT</h2>
-</h1>
+<h1 stile=text-aling:center past> ProyectoEstratosferico PICIT
+  
 
 <!---
 marianit200825/marianit200825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
